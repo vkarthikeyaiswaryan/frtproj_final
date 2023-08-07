@@ -7,7 +7,7 @@ This is a web based application developed for a health related based website in 
 
 *Project Link* - https://thankful-sea-057772400.3.azurestaticapps.net
 
-*Demo Video* -  
+*Demo Video* -  https://github.com/vkarthikeyaiswaryan/frtproj_final
 
 ## Azure Technologies used for this Project
 - Static Web Apps
